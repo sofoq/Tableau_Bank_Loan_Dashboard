@@ -58,6 +58,3 @@ A detailed table containing granular information about each loan, allowing for d
 3. Explore the **Details Sheet** for breakdown of loan data.  
 
 
-**Sofo Qaadze**  
-📧 sqaadze2000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
