@@ -3,6 +3,7 @@
 ## 📌 Project Overview  
 This **Tableau** project analyzes bank loan applications for the year **2021**, providing insights into key financial metrics and trends. The dashboard dynamically updates based on user selections and allows for in-depth exploration of loan data.  
 
+
 ## 📊 Key Dashboards  
 
 ### **1️⃣ Summary Sheet**  
