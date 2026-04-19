@@ -1,12 +1,12 @@
-# 🏦 Bank Loan Dashboard  
+#  Bank Loan Dashboard  
 
 ## 📌 Project Overview  
 This **Tableau** project analyzes bank loan applications for the year **2021**, providing insights into key financial metrics and trends. The dashboard dynamically updates based on user selections and allows for in-depth exploration of loan data.  
 
 
-## 📊 Key Dashboards  
+##  Key Dashboards  
 
-### **1️⃣ Summary Sheet**  
+### ** Summary Sheet**  
 This sheet presents an overview of key performance indicators (**KPIs**) with **Month-to-Date (MTD)** and **Month-over-Month (MOM)** comparisons:  
 - **Total Loan Applications**  
 - **Total Funded Amount**  
@@ -24,7 +24,7 @@ Additionally, this sheet includes:
   - **Bad Loans**: Total applications, funded amount, and received amount.  
 - **Matrix for Loan Status**: Displays detailed KPIs for each loan status.  
 
-### **2️⃣ Overview Sheet**  
+### ** Overview Sheet**  
 This sheet allows users to select parameters (**Total Loan Applications, Total Funded Amount, or Total Received Amount**) using a slicer. All visualizations update dynamically based on the selected parameter:  
 - **Area Chart** – Monthly trend of the selected parameter.  
 - **Map by State** – Displays regional distribution of loans.  
@@ -35,13 +35,13 @@ This sheet allows users to select parameters (**Total Loan Applications, Total F
 
 When a parameter is selected, every chart updates to reflect data specifically for that parameter.  
 
-### **3️⃣ Details Sheet**  
+### ** Details Sheet**  
 A detailed table containing granular information about each loan, allowing for deeper exploration of individual records.  
 
-## 📂 Dataset  
+##  Dataset  
 - The dataset contains loan application details for **2021**, including applicant demographics, financial metrics, loan amounts, interest rates, and loan status.
 
-## 📸 Screenshots  
+##  Screenshots  
 
 ###  Summary Dashboard  
 ![Summery](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/SUMMARY.png)  
@@ -53,7 +53,7 @@ A detailed table containing granular information about each loan, allowing for d
 ![Details](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/DETAILS.png)  
 
 
-## 🚀 How to Use  
+##  How to Use  
 1. Use the **Summary Sheet** for high-level insights into loan performance and key KPIs.  
 2. Switch between different parameters in the **Overview Sheet** using the slicer to analyze specific financial trends.  
 3. Explore the **Details Sheet** for breakdown of loan data.  
