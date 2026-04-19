@@ -6,7 +6,7 @@ This **Tableau** project analyzes bank loan applications for the year **2021**, 
 
 ##  Key Dashboards  
 
-### ** Summary Sheet**  
+### **Summary Sheet**  
 This sheet presents an overview of key performance indicators (**KPIs**) with **Month-to-Date (MTD)** and **Month-over-Month (MOM)** comparisons:  
 - **Total Loan Applications**  
 - **Total Funded Amount**  
@@ -24,7 +24,7 @@ Additionally, this sheet includes:
   - **Bad Loans**: Total applications, funded amount, and received amount.  
 - **Matrix for Loan Status**: Displays detailed KPIs for each loan status.  
 
-### ** Overview Sheet**  
+### **Overview Sheet**  
 This sheet allows users to select parameters (**Total Loan Applications, Total Funded Amount, or Total Received Amount**) using a slicer. All visualizations update dynamically based on the selected parameter:  
 - **Area Chart** – Monthly trend of the selected parameter.  
 - **Map by State** – Displays regional distribution of loans.  
@@ -35,7 +35,7 @@ This sheet allows users to select parameters (**Total Loan Applications, Total F
 
 When a parameter is selected, every chart updates to reflect data specifically for that parameter.  
 
-### ** Details Sheet**  
+### **Details Sheet**  
 A detailed table containing granular information about each loan, allowing for deeper exploration of individual records.  
 
 ##  Dataset  
